@@ -1,0 +1,14 @@
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.exe.config
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.exe
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.pdb
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.csprojResolveAssemblyReference.cache
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.csproj.CoreCompileInputs.cache
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.exe
+C:/Users/Makram/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.pdb
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.exe.config
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.exe
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/bin/Debug/ConsoleAppWeek1.pdb
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.csprojResolveAssemblyReference.cache
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.csproj.CoreCompileInputs.cache
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.exe
+/Users/makramibrahim/Google Drive/CIT365/ConsoleAppWeek1/ConsoleAppWeek1/obj/Debug/ConsoleAppWeek1.pdb
